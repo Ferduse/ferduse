@@ -3,7 +3,6 @@
 <p><em>a computer science student at <a href="https://hunter.cuny.edu/">CUNY Hunter College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: sabinerdd](https://img.shields.io/twitter/follow/sabinerdd?style=social)](https://twitter.com/sabinerdd)
 [![Linkedin: ferduserahman](https://img.shields.io/badge/-ferduserahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferduserahman/)](https://www.linkedin.com/in/ferduserahman/)
 
 
